@@ -21,6 +21,7 @@ $ npm install -g warriorjs
 ```bash
 $ warriorjs
 ```
+*Note: warriorjs must be run in your profile folder.*
 
 That's it! This will create a warriorjs directory in your current location, where you will find a Player.js file in your profile's directory containing the Player class:
 
